@@ -1,0 +1,129 @@
+img{
+    border-radius: 20px;
+    align-items: center;
+}
+
+    .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+        
+
+}
+.img1{
+    display: block;
+    margin: auto;
+    width: 230px;
+    height: 280px;
+}
+.img2{
+    display: block;
+    margin: auto;
+    width: 230px;
+    height: 280px;
+
+}
+.img3{
+    display: block;
+    margin: auto;
+    width: 230px;
+    height: 280px;
+
+}
+.img4{
+    display: block;
+    margin: auto;
+    width: 230px;
+    height: 280px;
+
+}
+.img5{
+    display: block;
+    margin: auto;
+    width: 230px;
+    height: 280px;
+
+}
+.img6{
+    display: block;
+    margin: auto;
+    width: 230px;
+    height: 280px;
+
+}
+.img7{
+    display: block;
+    margin: auto;
+    width: 230px;
+    height: 280px;
+
+}
+.img8{
+    display: block;
+    margin: auto;
+    width: 230px;
+    height: 280px;
+
+}
+.img9{
+    display: block;
+    margin: auto;
+    width: 230px;
+    height: 280px;
+
+}
+.img10{
+    display: block;
+    margin: auto;
+    width: 230px;
+    height: 280px;
+
+}
+    
+
+
+
+button{
+    background-color: whitesmoke;size: 30cm;
+}
+p{
+    text-align: center; color:rgb(134, 11, 11) ;
+    font-size: x-large;
+}
+
+body>{ 
+display: flex;justify-content: center;
+}
+body{ 
+    background-color:rgb(206, 133, 147);
+}
+button{
+    display: block;
+    margin: 20px auto;
+    padding: 15px 40px;
+    font-size: 20px;
+}
+.front-page {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.front-page h1 {
+    font-size: 70px;
+    color: white;
+    margin: 0;
+}
+
+.website {
+    min-height: 100vh;
+    padding: 50px;
+}
+h1{
+    text-align: center;
+}
